@@ -1,35 +1,28 @@
 {
-	"name": "TokenListExample",
-	"logoURI": "https://coin.top/production/logo/usdj.png", 
-	"timestamp": 1610339529000,
-	"tokens": [{
-			"chainId": 1, 
-			"address": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9", 
-			"name": "BitCoin", 
-			"symbol": "BTC", 
-			"decimals": 8, 
-			"logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
-		},
-		{
-			"chainId": 2,
-			"address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
-			"name": "USAJ",
-			"symbol": "USAJ",
-			"decimals": 18,
-			"logoURI": "https://coin.top/production/logo/usdj.png"
-		},
-		{
-			"chainId": 3,
-			"address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
-			"name": "ddssccUSDJ",
-			"symbol": "USddDJ",
-			"decimals": 18,
-			"logoURI": "https://coin.top/production/logo/usdj.png"
-		}
-	],
-	"version": { 
-		"major": 1, 
-		"minor": 0, 
-		"patch": 0  
-	}
+  "name": "DDDSSS-1",
+  "logoURI": "https://nile.tronscan.org/upload/logo/1000193.png",
+  "timestamp": 1600222146000,
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TG9XJ75ZWcUw69W8xViEJZQ365fRupGkFP",
+      "name": "BitCoin",
+      "symbol": "BTC",
+      "decimals": 8,
+      "logoURI": "https://coin.top/production/upload/logo/TQP1YvdR7C3p64ntC4wt21zjLhJjJaPYpo.png?t=1601169244264"
+    },
+    {
+      "chainId": 1,
+      "address": "TF17BgPaZYbz8oxbjhriubPDsA7ArKoLX3",
+      "name": "USDJ",
+      "symbol": "USDJ",
+      "decimals": 18,
+      "logoURI": "https://coin.top/production/upload/logo/TWsN5dHBCeG2hbRTC17YXsV9oDoN4tvmQW.png?t=1608857256223"
+    }
+  ],
+  "version": {
+    "major": 8,
+    "minor": 8,
+    "patch": 8
+  }
 }
