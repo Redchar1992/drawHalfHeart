@@ -11,10 +11,18 @@
 			"logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
 		},
 		{
-			"chainId": 1,
+			"chainId": 2,
 			"address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
-			"name": "USDJ",
-			"symbol": "USDJ",
+			"name": "USAJ",
+			"symbol": "USAJ",
+			"decimals": 18,
+			"logoURI": "https://coin.top/production/logo/usdj.png"
+		},
+		{
+			"chainId": 3,
+			"address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+			"name": "ddssccUSDJ",
+			"symbol": "USddDJ",
 			"decimals": 18,
 			"logoURI": "https://coin.top/production/logo/usdj.png"
 		}
