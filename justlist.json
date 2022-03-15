@@ -1,0 +1,27 @@
+{
+	"name": "TokenListExample",
+	"logoURI": "https://coin.top/production/logo/usdj.png", 
+	"timestamp": 1610339529000,
+	"tokens": [{
+			"chainId": 1, 
+			"address": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9", 
+			"name": "BitCoin", 
+			"symbol": "BTC", 
+			"decimals": 8, 
+			"logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
+		},
+		{
+			"chainId": 1,
+			"address": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+			"name": "USDJ",
+			"symbol": "USDJ",
+			"decimals": 18,
+			"logoURI": "https://coin.top/production/logo/usdj.png"
+		}
+	],
+	"version": { 
+		"major": 1, 
+		"minor": 0, 
+		"patch": 0  
+	}
+}
